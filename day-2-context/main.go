@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Gee_webFrame/day-2-context/gee"
+	"example/gee"
 	"net/http"
 )
 

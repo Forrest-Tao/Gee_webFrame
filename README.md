@@ -1,4 +1,4 @@
-这里记录了我学习 《气七天用Go从零实现系列之web框架》
+这里记录了我学习 《七天用Go从零实现系列之web框架》
 
 设计Context
 - `http.ResponseWriter`和 `http.Request` 对象的接口颗粒度太细
@@ -11,8 +11,9 @@
 ![](D:\Go_WorkSpace\Gee_webFrame\前缀树.png)
 
 
-
-
+> 还有许多功能不完善，或者说仅支持部分功能
+> trie树的代码部分我还没有完全理解
+> c.Next()的部分我也有点迷糊
 
 
 
